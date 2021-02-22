@@ -21,7 +21,7 @@ def send(msg):
 
 send("hello! world")
 send("hello! Everyone")
-send("hello! Ale")
+send("hello! PythonGamer10")
 texto = input(">>>")
 send(texto)
 
